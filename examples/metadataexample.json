@@ -1,0 +1,21 @@
+{
+  "name": "fakeapi.dll", // The name of the DLL file uploaded
+    "id": "Stellar.APIs.Fakeapi", // The id you want to give it so it is recognized for auto updating. Please ensure this doesnt match any other API metadata ids.
+    "description": "This is a test to see if the system works!", // A description of what it does
+  "unityversion": {
+    "tested": {
+      "min": "2022.3.34f1", // Minimum version
+      "max": "2022.3.34f1" // Maximum version
+    },
+    "recommended": "2022.3.34f1", // The recommended version
+    "unsupported": [ "?" ], // A list of unsupported versions. you can use (> or <) operators to represent versions greater than or less
+    "potentialsupport": [ ">2022.3.34f1" ] // A list of potentially supported versions. you can use (> or <) operators to represent versions greater than or less
+  },
+  "dependancies": [
+    { "name": "UnityEditor", "version": "unknown"}, // Used libraries and their versions
+    {"name": "System","version": "unknown"},
+    {"name": "Newtonsoft.Json.Linq", "version": "unknown"},
+    {"name": "System.Net.Http", "version": "unknown"}
+  ],
+    "version": "1.0.0" // The new version of the API
+}

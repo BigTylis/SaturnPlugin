@@ -1,0 +1,21 @@
+{
+  "name": "fakeapi.dll",
+    "id": "Stellar.APIs.Fakeapi",
+    "description": "This is a test to see if the system works!",
+  "unityversion": {
+    "tested": {
+      "min": "2022.3.34f1",
+      "max": "2022.3.34f1"
+    },
+    "recommended": "2022.3.34f1",
+    "unsupported": [ "?" ],
+    "potentialsupport": [ ">2022.3.34f1" ]
+  },
+    "dependancies": [
+      { "name": "UnityEditor", "version": "unknown"},
+      {"name": "System","version": "unknown"},
+      {"name": "Newtonsoft.Json.Linq", "version": "unknown"},
+      {"name": "System.Net.Http", "version": "unknown"}
+    ],
+    "version": "1.0.0"
+}
