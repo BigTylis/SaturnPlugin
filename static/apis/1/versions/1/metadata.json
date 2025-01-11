@@ -12,7 +12,7 @@
     "potentialsupport": [ ">2022.3.34f1" ]
   },
     "dependancies": [
-      { "name": "UnityEditor", "version": "unknown"}, // Used libraries and their versions
+      { "name": "UnityEditor", "version": "unknown"},
       {"name": "System","version": "unknown"},
       {"name": "Newtonsoft.Json.Linq", "version": "unknown"},
       {"name": "System.Net.Http", "version": "unknown"}
