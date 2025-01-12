@@ -1,5 +1,6 @@
 {
-  "name": "fakeapi.dll",
+  "name": "Fake API",
+  "filename": "fakeapi.dll",
     "id": "Stellar.APIs.Fakeapi",
     "description": "This is a test to see if the system works!",
   "unityversion": {
