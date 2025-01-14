@@ -1,5 +1,7 @@
 {
   "name": "Fake API", // The name you want to display in the API list (no additional functionality)
+  "credit": "BigTylis", // Any users who contributed or made the API
+  "creationtype": "internal", // internal if created by Stellar, external if created by someone else
   "filename": "fakeapi.dll", // The name of the DLL file uploaded
     "id": "Stellar.APIs.Fakeapi", // The id you want to give it so it is recognized for auto updating. Please ensure this doesnt match any other API metadata ids.
     "description": "This is a test to see if the system works!", // A description of what it does
