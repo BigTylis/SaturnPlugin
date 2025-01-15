@@ -1,5 +1,6 @@
 {
   "name": "Fake API", // The name you want to display in the API list (no additional functionality)
+  "base64icon": "none", // An image converted to Base64 OR none for no icon
   "credit": "BigTylis", // Any users who contributed or made the API
   "creationtype": "internal", // internal if created by Stellar, external if created by someone else
   "filename": "fakeapi.dll", // The name of the DLL file uploaded
