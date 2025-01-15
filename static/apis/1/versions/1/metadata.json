@@ -1,5 +1,6 @@
 {
   "name": "Fake API",
+  "base64icon": "none",
   "credit": "BigTylis",
   "creationtype": "internal",
   "filename": "fakeapi.dll",
