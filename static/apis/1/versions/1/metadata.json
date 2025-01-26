@@ -21,5 +21,5 @@
       {"name": "Newtonsoft.Json.Linq", "version": "unknown"},
       {"name": "System.Net.Http", "version": "unknown"}
     ],
-    "version": "1.0.0"
+    "version": "2.1.0"
 }
