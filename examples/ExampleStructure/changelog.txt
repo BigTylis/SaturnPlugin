@@ -1,0 +1,4 @@
+v1.0.0
+This is an example of a changelog.
+It consists of basic text, so you
+can write in here however you want!
