@@ -3,7 +3,7 @@
   "base64icon": "none",
   "credit": "BigTylis",
   "creationtype": "internal",
-  "filename": "fakeapi.dll",
+  "filenames": ["fakeapi.dll"],
     "id": "Stellar.APIs.Fakeapi",
     "description": "This is a test to see if the system works!",
   "unityversion": {
