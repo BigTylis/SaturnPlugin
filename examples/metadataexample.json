@@ -3,7 +3,7 @@
   "base64icon": "none", // An image converted to Base64 OR none for no icon
   "credit": "BigTylis", // Any users who contributed or made the API
   "creationtype": "internal", // internal if created by Stellar, external if created by someone else
-  "filename": "fakeapi.dll", // The name of the DLL file uploaded
+  "filenames": ["fakeapi.dll"], // A list of all the file names you want to download together
     "id": "Stellar.APIs.Fakeapi", // The id you want to give it so it is recognized for auto updating. Please ensure this doesnt match any other API metadata ids.
     "description": "This is a test to see if the system works!", // A description of what it does
   "unityversion": {
