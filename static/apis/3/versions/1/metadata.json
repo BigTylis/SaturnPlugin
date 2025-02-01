@@ -4,7 +4,7 @@
   "credit": "jamesnk, newtonsoft, dotnetfoundation",
   "creationtype": "external",
   "filename": "Newtonsoft.Json.dll",
-  "id": "EXTERNAL.Newtonsoft.Json",
+  "id": "Newtonsoft.Json",
   "description": "Json.NET is a popular high-performance JSON framework for .NET",
   "unityversion": {
     "tested": {
