@@ -1,2 +1,0 @@
-ALL CHANGELOG INFORMATION CAN BE FOUND ON THE NewtonSoft.json Github. Release information found here:
-https://github.com/JamesNK/Newtonsoft.Json/releases
