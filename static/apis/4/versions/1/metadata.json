@@ -1,0 +1,20 @@
+{
+  "name": "Assetables",
+  "base64icon": "",
+  "credit": "BigTylis",
+  "creationtype": "internal",
+  "filenames": [ "Stellar API.cs" ],
+  "id": "Stellar.APIs.API",
+  "description": "Super epic cool multiuse API for Stellar's games",
+  "unityversion": {
+    "tested": {
+      "min": "2022.3.34f1",
+      "max": "2022.3.34f1"
+    },
+    "recommended": "2022.3.34f1",
+    "unsupported": [ "?" ],
+    "potentialsupport": [ ">2022.3.34f1" ]
+  },
+  "dependancies": [],
+  "version": "1.0.0"
+}
