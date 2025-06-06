@@ -93,3 +93,26 @@ Usage example:
     }
 
 In the example AfterSceneLoad load type is used so that the hook is affectively added and started after the thread is ready. This minimizes the chance of issues and is recommended.
+
+## Modifying the base Physics class
+
+Physics is a partial class, allowing you to define new parts of it whenever you need as long as you have access to the whole namespace.
+
+    public partial class Physics : MonoBehaviour
+
+Example of modifying Physics to support "Gravity":
+
+    namespace Stellar.Engines.Physics.PB
+    {
+        public partial class Physics : MonoBehaviour
+        {
+            /// <summary>
+            /// Settings and current velocity for this objects gravity
+            /// </summary>
+            public GravityVector Gravity = new GravityVector();
+            /// <summary>
+            /// Should gravity be simulated
+            /// </summary>
+            public bool HasGravity = false;
+        }
+    }
