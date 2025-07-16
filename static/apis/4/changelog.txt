@@ -1,2 +1,5 @@
 > ---- v1.0.0 ---- <
 Release Build
+
+> ---- v1.1.0 ---- <
+Added new HashList and ConcurrentHashList classes. Allows for indexing/ordering whilst still having unique instances.
