@@ -1,2 +1,7 @@
 > ---- v1.0.0 ---- <
+
 Release build
+
+> ---- v2.0.0 ---- <
+
+Added support for creating BetterIdentifier components at runtime. Changed Idify used IDs list to now have select buttons so you can now auto select the corrosponding GameObject.
