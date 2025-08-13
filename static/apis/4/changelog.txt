@@ -3,3 +3,6 @@ Release Build
 
 > ---- v1.1.0 ---- <
 Added new HashList and ConcurrentHashList classes. Allows for indexing/ordering whilst still having unique instances.
+
+> ---- v1.2.0 ---- <
+Added new Implementers namespace. +3 implementers: FlexibleCatcher, InterfaceImplementationEnforcementAttribute, and NotImplementedAttribute. Removed MouseMovedEventArgs from General namespace.
