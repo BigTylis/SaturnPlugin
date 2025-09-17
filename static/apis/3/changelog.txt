@@ -1,2 +1,7 @@
 > ---- v1.0.0 ---- <
+
 Release Build
+
+> ---- v1.1.0 ---- <
+
+Depracated GetAssetAsync() and GetEntryAsync()
