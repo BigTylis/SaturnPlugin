@@ -9,3 +9,6 @@ Added new Implementers namespace. +3 implementers: FlexibleCatcher, InterfaceImp
 
 > ---- v2.0.0 ---- <
 Significant changes that I honestly dont remember. Upped the major version, you should see anything that has become obselete.
+
+> ---- v2.0.1 ---- <
+Fixed harmful rare occurance where StellarAPIGameObject could fail to initialize randomly.
