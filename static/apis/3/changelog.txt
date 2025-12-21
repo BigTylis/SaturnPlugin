@@ -5,3 +5,7 @@ Release Build
 > ---- v1.1.0 ---- <
 
 Depracated GetAssetAsync() and GetEntryAsync()
+
+> ---- v2.0.0 ---- <
+
+Organized code, switched asset TextFields to DelayedTextFields for lazy commits, assets can now be organized into groups by naming using slashes, assets now have style boxes around them
