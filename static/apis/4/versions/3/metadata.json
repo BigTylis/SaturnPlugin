@@ -16,5 +16,9 @@
     "potentialsupport": [ ">2022.3.34f1" ]
   },
   "dependancies": [],
+  "unityPackageDependancies":[
+    {"name":"com.unity.collections", "version":"2.6.3"}
+  ],
   "version": "1.2.0"
 }
+
