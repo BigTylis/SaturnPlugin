@@ -9,3 +9,7 @@ Depracated GetAssetAsync() and GetEntryAsync()
 > ---- v2.0.0 ---- <
 
 Organized code, switched asset TextFields to DelayedTextFields for lazy commits, assets can now be organized into groups by naming using slashes, assets now have style boxes around them
+
+> ---- v2.1.0 ---- <
+
+Added an info box at the top to demonstrate search query and naming features
