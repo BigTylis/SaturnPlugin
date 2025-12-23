@@ -16,5 +16,9 @@
     "potentialsupport": [ ">2022.3.34f1" ]
   },
   "dependancies": [],
+  "unityPackageDependancies":[
+    {"name":"com.unity.visualscripting", "version":"1.9.9"}
+  ],
   "version": "1.0.0"
 }
+
