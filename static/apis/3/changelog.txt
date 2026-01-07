@@ -13,3 +13,8 @@ Organized code, switched asset TextFields to DelayedTextFields for lazy commits,
 > ---- v2.1.0 ---- <
 
 Added an info box at the top to demonstrate search query and naming features
+
+> ---- v2.1.1 ---- <
+
+* Added new comments and documentation to the files to give better guidance on how to use the API
+* Now has cross platform support, no windows only dependency
